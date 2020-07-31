@@ -1,0 +1,6 @@
+[submodule "themes/edinburgh"]
+	path = themes/edinburgh
+	url = https://github.com/sharvaridesai/hexo-theme-edinburgh.git
+[submodule "public"]
+	path = public
+	url = https://github.com/AshwiniDPrabhu/MyBlog.git
